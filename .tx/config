@@ -1,0 +1,1269 @@
+[main]
+host = https://www.transifex.net
+lang_map = af_ZA: af-ZA, am_ET: am-ET, ar_AE: ar-AE, ar_BH: ar-BH, ar_DZ: ar-DZ, ar_EG: ar-EG, ar_IQ: ar-IQ, ar_JO: ar-JO, ar_KW: ar-KW, ar_LB: ar-LB, ar_LY: ar-LY, ar_MA: ar-MA, ar_OM: ar-OM, ar_QA: ar-QA, ar_SA: ar-SA, ar_SY: ar-SY, ar_TN: ar-TN, ar_YE: ar-YE, arn_CL: arn-CL, as_IN: as-IN, az_AZ: az-AZ, ba_RU: ba-RU, be_BY: be-BY, bg_BG: bg-BG, bn_BD: bn-BD, bn_IN: bn-IN, bo_CN: bo-CN, br_FR: br-FR, bs_BA: bs-BA, ca_ES: ca-ES, co_FR: co-FR, cs_CZ: cs-CZ, cy_GB: cy-GB, da_DK: da-DK, de_AT: de-AT, de_CH: de-CH, de_DE: de-DE, de_LI: de-LI, de_LU: de-LU, dsb_DE: dsb-DE, dv_MV: dv-MV, el_GR: el-GR, en_AU: en-AU, en_BZ: en-BZ, en_CA: en-CA, en_GB: en-GB, en_IE: en-IE, en_IN: en-IN, en_JM: en-JM, en_MY: en-MY, en_NZ: en-NZ, en_PH: en-PH, en_SG: en-SG, en_TT: en-TT, en_US: en-US, en_ZA: en-ZA, en_ZW: en-ZW, es_AR: es-AR, es_BO: es-BO, es_CL: es-CL, es_CO: es-CO, es_CR: es-CR, es_DO: es-DO, es_EC: es-EC, es_ES: es-ES, es_GT: es-GT, es_HN: es-HN, es_MX: es-MX, es_NI: es-NI, es_PA: es-PA, es_PE: es-PE, es_PR: es-PR, es_PY: es-PY, es_SV: es-SV, es_US: es-US, es_UY: es-UY, es_VE: es-VE, et_EE: et-EE, eu_ES: eu-ES, fa_IR: fa-IR, fi_FI: fi-FI, fil_PH: fil-PH, fo_FO: fo-FO, fr_BE: fr-BE, fr_CA: fr-CA, fr_CH: fr-CH, fr_FR: fr-FR, fr_LU: fr-LU, fr_MC: fr-MC, fy_NL: fy-NL, ga_IE: ga-IE, gd_GB: gd-GB, gl_ES: gl-ES, gsw_FR: gsw-FR, gu_IN: gu-IN, ha_NG: ha-NG, he_IL: he-IL, hi_IN: hi-IN, hr_BA: hr-BA, hr_HR: hr-HR, hsb_DE: hsb-DE, hu_HU: hu-HU, hy_AM: hy-AM, id_ID: id-ID, ig_NG: ig-NG, ii_CN: ii-CN, is_IS: is-IS, it_CH: it-CH, it_IT: it-IT, iu_CA: iu-CA, ja_JP: ja-JP, ka_GE: ka-GE, kk_KZ: kk-KZ, kl_GL: kl-GL, km_KH: km-KH, kn_IN: kn-IN, ko_KR: ko-KR, kok_IN: kok-IN, ky_KG: ky-KG, lb_LU: lb-LU, lo_LA: lo-LA, lt_LT: lt-LT, lv_LV: lv-LV, mi_NZ: mi-NZ, mk_MK: mk-MK, ml_IN: ml-IN, mn_CN: mn-CN, mn_MN: mn-MN, moh_CA: moh-CA, mr_IN: mr-IN, ms_BN: ms-BN, ms_MY: ms-MY, mt_MT: mt-MT, nb_NO: nb-NO, ne_NP: ne-NP, nl_BE: nl-BE, nl_NL: nl-NL, nn_NO: nn-NO, nso_ZA: nso-ZA, oc_FR: oc-FR, or_IN: or-IN, pa_IN: pa-IN, pl_PL: pl-PL, prs_AF: prs-AF, ps_AF: ps-AF, pt_BR: pt-BR, pt_PT: pt-PT, qut_GT: qut-GT, quz_BO: quz-BO, quz_EC: quz-EC, quz_PE: quz-PE, rm_CH: rm-CH, ro_RO: ro-RO, ru_RU: ru-RU, rw_RW: rw-RW, sa_IN: sa-IN, sah_RU: sah-RU, se_FI: se-FI, se_NO: se-NO, se_SE: se-SE, si_LK: si-LK, sk_SK: sk-SK, sl_SI: sl-SI, sma_NO: sma-NO, sma_SE: sma-SE, smj_NO: smj-NO, smj_SE: smj-SE, smn_FI: smn-FI, sms_FI: sms-FI, sq_AL: sq-AL, sr_BA: sr-BA, sr_CS: sr-CS, sr_ME: sr-ME, sr_RS: sr-RS, sv_FI: sv-FI, sv_SE: sv-SE, sw_KE: sw-KE, syr_SY: syr-SY, ta_IN: ta-IN, te_IN: te-IN, tg_TJ: tg-TJ, th_TH: th-TH, tk_TM: tk-TM, tn_ZA: tn-ZA, tr_TR: tr-TR, tt_RU: tt-RU, tzm_DZ: tzm-DZ, ug_CN: ug-CN, uk_UA: uk-UA, ur_PK: ur-PK, uz_UZ: uz-UZ, vi_VN: vi-VN, wo_SN: wo-SN, xh_ZA: xh-ZA, yo_NG: yo-NG, zh_CN: zh-CN, zh_HK: zh-HK, zh_MO: zh-MO, zh_SG: zh-SG, zh_TW: zh-TW, zu_ZA: zu-ZA
+minimum_perc = 8
+
+[jworldlangs.25-admin-en-GB-com_admin-ini]
+file_filter = administrator\language\<lang>\<lang>.com_admin.ini
+source_file = administrator\language\en-GB\en-GB.com_admin.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_admin-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_admin.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_admin.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_banners-ini]
+file_filter = administrator\language\<lang>\<lang>.com_banners.ini
+source_file = administrator\language\en-GB\en-GB.com_banners.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_banners-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_banners.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_banners.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_cache-ini]
+file_filter = administrator\language\<lang>\<lang>.com_cache.ini
+source_file = administrator\language\en-GB\en-GB.com_cache.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_cache-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_cache.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_cache.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_categories-ini]
+file_filter = administrator\language\<lang>\<lang>.com_categories.ini
+source_file = administrator\language\en-GB\en-GB.com_categories.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_categories-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_categories.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_categories.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_checkin-ini]
+file_filter = administrator\language\<lang>\<lang>.com_checkin.ini
+source_file = administrator\language\en-GB\en-GB.com_checkin.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_checkin-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_checkin.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_checkin.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_config-ini]
+file_filter = administrator\language\<lang>\<lang>.com_config.ini
+source_file = administrator\language\en-GB\en-GB.com_config.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_checkin-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_config.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_config.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_contact-ini]
+file_filter = administrator\language\<lang>\<lang>.com_contact.ini
+source_file = administrator\language\en-GB\en-GB.com_contact.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_contact-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_contact.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_contact.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_content-ini]
+file_filter = administrator\language\<lang>\<lang>.com_content.ini
+source_file = administrator\language\en-GB\en-GB.com_content.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_content-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_content.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_content.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_cpanel-ini]
+file_filter = administrator\language\<lang>\<lang>.com_cpanel.ini
+source_file = administrator\language\en-GB\en-GB.com_cpanel.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_cpanel-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_cpanel.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_cpanel.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_finder-ini]
+file_filter = administrator\language\<lang>\<lang>.com_finder.ini
+source_file = administrator\language\en-GB\en-GB.com_finder.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_finder-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_finder.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_finder.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_installer-ini]
+file_filter = administrator\language\<lang>\<lang>.com_installer.ini
+source_file = administrator\language\en-GB\en-GB.com_installer.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_installer-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_installer.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_installer.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_languages-ini]
+file_filter = administrator\language\<lang>\<lang>.com_languages.ini
+source_file = administrator\language\en-GB\en-GB.com_languages.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_languages-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_languages.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_languages.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_login-ini]
+file_filter = administrator\language\<lang>\<lang>.com_login.ini
+source_file = administrator\language\en-GB\en-GB.com_login.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_login-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_login.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_login.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_mailto-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_mailto.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_mailto.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_media-ini]
+file_filter = administrator\language\<lang>\<lang>.com_media.ini
+source_file = administrator\language\en-GB\en-GB.com_media.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_media-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_media.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_media.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_menus-ini]
+file_filter = administrator\language\<lang>\<lang>.com_menus.ini
+source_file = administrator\language\en-GB\en-GB.com_menus.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_menus-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_menus.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_menus.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_messages-ini]
+file_filter = administrator\language\<lang>\<lang>.com_messages.ini
+source_file = administrator\language\en-GB\en-GB.com_messages.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_messages-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_messages.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_messages.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_modules-ini]
+file_filter = administrator\language\<lang>\<lang>.com_modules.ini
+source_file = administrator\language\en-GB\en-GB.com_modules.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_modules-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_modules.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_modules.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_newsfeeds-ini]
+file_filter = administrator\language\<lang>\<lang>.com_newsfeeds.ini
+source_file = administrator\language\en-GB\en-GB.com_newsfeeds.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_newsfeeds-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_newsfeeds.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_newsfeeds.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_plugins-ini]
+file_filter = administrator\language\<lang>\<lang>.com_plugins.ini
+source_file = administrator\language\en-GB\en-GB.com_plugins.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_plugins-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_plugins.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_plugins.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_redirect-ini]
+file_filter = administrator\language\<lang>\<lang>.com_redirect.ini
+source_file = administrator\language\en-GB\en-GB.com_redirect.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_redirect-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_redirect.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_redirect.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_search-ini]
+file_filter = administrator\language\<lang>\<lang>.com_search.ini
+source_file = administrator\language\en-GB\en-GB.com_search.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_search-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_search.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_search.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_templates-ini]
+file_filter = administrator\language\<lang>\<lang>.com_templates.ini
+source_file = administrator\language\en-GB\en-GB.com_templates.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_templates-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_templates.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_templates.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_users-ini]
+file_filter = administrator\language\<lang>\<lang>.com_users.ini
+source_file = administrator\language\en-GB\en-GB.com_users.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_users-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_users.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_users.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_weblinks-ini]
+file_filter = administrator\language\<lang>\<lang>.com_weblinks.ini
+source_file = administrator\language\en-GB\en-GB.com_weblinks.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_weblinks-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_weblinks.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_weblinks.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_wrapper-ini]
+file_filter = administrator\language\<lang>\<lang>.com_wrapper.ini
+source_file = administrator\language\en-GB\en-GB.com_wrapper.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_wrapper-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_wrapper.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_wrapper.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-ini]
+file_filter = administrator\language\<lang>\<lang>.ini
+source_file = administrator\language\en-GB\en-GB.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-lib_joomla-ini]
+file_filter = administrator\language\<lang>\<lang>.lib_joomla.ini
+source_file = administrator\language\en-GB\en-GB.lib_joomla.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_custom-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_custom.ini
+source_file = administrator\language\en-GB\en-GB.mod_custom.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_custom-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_custom.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_custom.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_feed-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_feed.ini
+source_file = administrator\language\en-GB\en-GB.mod_feed.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_feed-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_feed.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_feed.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_latest-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_latest.ini
+source_file = administrator\language\en-GB\en-GB.mod_latest.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_latest-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_latest.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_latest.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_logged-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_logged.ini
+source_file = administrator\language\en-GB\en-GB.mod_logged.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_logged-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_logged.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_logged.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_login-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_login.ini
+source_file = administrator\language\en-GB\en-GB.mod_login.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_login-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_login.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_login.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_menu-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_menu.ini
+source_file = administrator\language\en-GB\en-GB.mod_menu.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_menu-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_menu.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_menu.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_multilangstatus-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_multilangstatus.ini
+source_file = administrator\language\en-GB\en-GB.mod_multilangstatus.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_multilangstatus-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_multilangstatus.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_multilangstatus.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_popular-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_popular.ini
+source_file = administrator\language\en-GB\en-GB.mod_popular.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_popular-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_popular.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_popular.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_quickicon-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_quickicon.ini
+source_file = administrator\language\en-GB\en-GB.mod_quickicon.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_quickicon-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_quickicon.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_quickicon.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_status-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_status.ini
+source_file = administrator\language\en-GB\en-GB.mod_status.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_status-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_status.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_status.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_submenu-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_submenu.ini
+source_file = administrator\language\en-GB\en-GB.mod_submenu.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_submenu-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_submenu.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_submenu.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_title-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_title.ini
+source_file = administrator\language\en-GB\en-GB.mod_title.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_title-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_title.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_title.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_toolbar-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_toolbar.ini
+source_file = administrator\language\en-GB\en-GB.mod_toolbar.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_toolbar-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_toolbar.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_toolbar.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_version-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_version.ini
+source_file = administrator\language\en-GB\en-GB.mod_version.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-mod_version-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.mod_version.sys.ini
+source_file = administrator\language\en-GB\en-GB.mod_version.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_authentication_gmail-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_authentication_gmail.ini
+source_file = administrator\language\en-GB\en-GB.plg_authentication_gmail.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_authentication_gmail-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_authentication_gmail.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_authentication_gmail.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_authentication_joomla-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_authentication_joomla.ini
+source_file = administrator\language\en-GB\en-GB.plg_authentication_joomla.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_authentication_joomla-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_authentication_joomla.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_authentication_joomla.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_authentication_ldap-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_authentication_ldap.ini
+source_file = administrator\language\en-GB\en-GB.plg_authentication_ldap.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_authentication_ldap-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_authentication_ldap.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_authentication_ldap.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_captcha_recaptcha-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_captcha_recaptcha.ini
+source_file = administrator\language\en-GB\en-GB.plg_captcha_recaptcha.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_captcha_recaptcha-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_captcha_recaptcha.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_captcha_recaptcha.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_emailcloak-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_emailcloak.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_emailcloak.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_emailcloak-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_emailcloak.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_emailcloak.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_finder-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_finder.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_finder.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_finder-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_finder.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_finder.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_geshi-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_geshi.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_geshi.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_geshi-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_geshi.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_geshi.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_joomla-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_joomla.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_joomla.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_joomla-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_joomla.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_joomla.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_loadmodule-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_loadmodule.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_loadmodule.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_loadmodule-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_loadmodule.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_loadmodule.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_pagebreak-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_pagebreak.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_pagebreak.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_pagebreak-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_pagebreak.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_pagebreak.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_pagenavigation-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_pagenavigation.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_pagenavigation.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_pagenavigation-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_pagenavigation.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_pagenavigation.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_vote-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_vote.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_vote.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_content_vote-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_content_vote.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_content_vote.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors_codemirror-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors_codemirror.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors_codemirror.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors_codemirror-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors_codemirror.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors_codemirror.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors_none-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors_none.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors_none.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors_none-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors_none.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors_none.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors_tinymce-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors_tinymce.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors_tinymce.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors_tinymce-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors_tinymce.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors_tinymce.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors-xtd_article-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors-xtd_article.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors-xtd_article.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors-xtd_article-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors-xtd_article.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors-xtd_article.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors-xtd_image-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors-xtd_image.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors-xtd_image.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors-xtd_image-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors-xtd_image.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors-xtd_image.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors-xtd_pagebreak-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors-xtd_pagebreak.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors-xtd_pagebreak.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors-xtd_pagebreak-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors-xtd_pagebreak.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors-xtd_pagebreak.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors-xtd_readmore-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors-xtd_readmore.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors-xtd_readmore.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_editors-xtd_readmore-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_editors-xtd_readmore.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_editors-xtd_readmore.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_extension_joomla-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_extension_joomla.ini
+source_file = administrator\language\en-GB\en-GB.plg_extension_joomla.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_extension_joomla-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_extension_joomla.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_extension_joomla.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_categories-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_categories.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_categories.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_categories-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_categories.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_categories.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_contacts-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_contacts.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_contacts.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_contacts-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_contacts.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_contacts.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_content-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_content.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_content.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_content-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_content.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_content.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_newsfeeds-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_newsfeeds.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_newsfeeds.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_newsfeeds-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_newsfeeds.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_newsfeeds.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_weblinks-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_weblinks.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_weblinks.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_finder_weblinks-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_finder_weblinks.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_finder_weblinks.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_quickicon_extensionupdate-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_quickicon_extensionupdate.ini
+source_file = administrator\language\en-GB\en-GB.plg_quickicon_extensionupdate.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_quickicon_extensionupdate-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_quickicon_extensionupdate.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_quickicon_extensionupdate.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_quickicon_joomlaupdate-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_quickicon_joomlaupdate.ini
+source_file = administrator\language\en-GB\en-GB.plg_quickicon_joomlaupdate.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_quickicon_joomlaupdate-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_quickicon_joomlaupdate.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_quickicon_joomlaupdate.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_categories-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_categories.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_categories.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_categories-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_categories.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_categories.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_contacts-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_contacts.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_contacts.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_contacts-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_contacts.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_contacts.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_content-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_content.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_content.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_content-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_content.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_content.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_newsfeeds-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_newsfeeds.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_newsfeeds.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_newsfeeds-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_newsfeeds.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_newsfeeds.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_weblinks-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_weblinks.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_weblinks.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_search_weblinks-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_search_weblinks.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_search_weblinks.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_cache-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_cache.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_cache.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_cache-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_cache.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_cache.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_debug-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_debug.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_debug.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_debug-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_debug.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_debug.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_finder-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_finder.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_finder.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_finder-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_finder.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_finder.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_highlight-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_highlight.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_highlight.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_highlight-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_highlight.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_highlight.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_languagecode-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_languagecode.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_languagecode.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_languagecode-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_languagecode.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_languagecode.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_languagefilter-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_languagefilter.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_languagefilter.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_languagefilter-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_languagefilter.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_languagefilter.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_log-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_log.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_log.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_log-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_log.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_log.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_logout-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_logout.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_logout.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_logout-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_logout.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_logout.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_p3p-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_p3p.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_p3p.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_p3p-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_p3p.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_p3p.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_redirect-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_redirect.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_redirect.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_redirect-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_redirect.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_redirect.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_remember-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_remember.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_remember.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_remember-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_remember.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_remember.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_sef-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_sef.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_sef.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_system_sef-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_system_sef.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_system_sef.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_user_contactcreator-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_user_contactcreator.ini
+source_file = administrator\language\en-GB\en-GB.plg_user_contactcreator.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_user_contactcreator-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_user_contactcreator.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_user_contactcreator.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_user_joomla-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_user_joomla.ini
+source_file = administrator\language\en-GB\en-GB.plg_user_joomla.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_user_joomla-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_user_joomla.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_user_joomla.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_user_profile-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_user_profile.ini
+source_file = administrator\language\en-GB\en-GB.plg_user_profile.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-plg_user_profile-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.plg_user_profile.sys.ini
+source_file = administrator\language\en-GB\en-GB.plg_user_profile.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-tpl_bluestork-ini]
+file_filter = administrator\language\<lang>\<lang>.tpl_bluestork.ini
+source_file = administrator\language\en-GB\en-GB.tpl_bluestork.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-tpl_bluestork-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.tpl_bluestork.sys.ini
+source_file = administrator\language\en-GB\en-GB.tpl_bluestork.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-tpl_hathor-ini]
+file_filter = administrator\language\<lang>\<lang>.tpl_hathor.ini
+source_file = administrator\language\en-GB\en-GB.tpl_hathor.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-tpl_hathor-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.tpl_hathor.sys.ini
+source_file = administrator\language\en-GB\en-GB.tpl_hathor.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_contact-ini]
+file_filter = language\<lang>\<lang>.com_contact.ini
+source_file = language\en-GB\en-GB.com_contact.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_content-ini]
+file_filter = language\<lang>\<lang>.com_content.ini
+source_file = language\en-GB\en-GB.com_content.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_finder-ini]
+file_filter = language\<lang>\<lang>.com_finder.ini
+source_file = language\en-GB\en-GB.com_finder.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_mailto-ini]
+file_filter = language\<lang>\<lang>.com_mailto.ini
+source_file = language\en-GB\en-GB.com_mailto.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_media-ini]
+file_filter = language\<lang>\<lang>.com_media.ini
+source_file = language\en-GB\en-GB.com_media.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_messages-ini]
+file_filter = language\<lang>\<lang>.com_messages.ini
+source_file = language\en-GB\en-GB.com_messages.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_newsfeeds-ini]
+file_filter = language\<lang>\<lang>.com_newsfeeds.ini
+source_file = language\en-GB\en-GB.com_newsfeeds.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_search-ini]
+file_filter = language\<lang>\<lang>.com_search.ini
+source_file = language\en-GB\en-GB.com_search.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_users-ini]
+file_filter = language\<lang>\<lang>.com_users.ini
+source_file = language\en-GB\en-GB.com_users.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_weblinks-ini]
+file_filter = language\<lang>\<lang>.com_weblinks.ini
+source_file = language\en-GB\en-GB.com_weblinks.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-com_wrapper-ini]
+file_filter = language\<lang>\<lang>.com_wrapper.ini
+source_file = language\en-GB\en-GB.com_wrapper.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-files_joomla-sys-ini]
+file_filter = language\<lang>\<lang>.files_joomla.sys.ini
+source_file = language\en-GB\en-GB.files_joomla.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-finder_cli-ini]
+file_filter = language\<lang>\<lang>.finder_cli.ini
+source_file = language\en-GB\en-GB.finder_cli.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-ini]
+file_filter = language\<lang>\<lang>.ini
+source_file = language\en-GB\en-GB.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-lib_joomla-ini]
+file_filter = language\<lang>\<lang>.lib_joomla.ini
+source_file = language\en-GB\en-GB.lib_joomla.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-lib_joomla-sys-ini]
+file_filter = language\<lang>\<lang>.lib_joomla.sys.ini
+source_file = language\en-GB\en-GB.lib_joomla.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-lib_phpmailer-sys-ini]
+file_filter = language\<lang>\<lang>.lib_phpmailer.sys.ini
+source_file = language\en-GB\en-GB.lib_phpmailer.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-lib_phputf8-sys-ini]
+file_filter = language\<lang>\<lang>.lib_phputf8.sys.ini
+source_file = language\en-GB\en-GB.lib_phputf8.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-lib_simplepie-sys-ini]
+file_filter = language\<lang>\<lang>.lib_simplepie.sys.ini
+source_file = language\en-GB\en-GB.lib_simplepie.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_archive-ini]
+file_filter = language\<lang>\<lang>.mod_articles_archive.ini
+source_file = language\en-GB\en-GB.mod_articles_archive.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_archive-sys-ini]
+file_filter = language\<lang>\<lang>.mod_articles_archive.sys.ini
+source_file = language\en-GB\en-GB.mod_articles_archive.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_categories-ini]
+file_filter = language\<lang>\<lang>.mod_articles_categories.ini
+source_file = language\en-GB\en-GB.mod_articles_categories.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_categories-sys-ini]
+file_filter = language\<lang>\<lang>.mod_articles_categories.sys.ini
+source_file = language\en-GB\en-GB.mod_articles_categories.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_category-ini]
+file_filter = language\<lang>\<lang>.mod_articles_category.ini
+source_file = language\en-GB\en-GB.mod_articles_category.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_category-sys-ini]
+file_filter = language\<lang>\<lang>.mod_articles_category.sys.ini
+source_file = language\en-GB\en-GB.mod_articles_category.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_latest-ini]
+file_filter = language\<lang>\<lang>.mod_articles_latest.ini
+source_file = language\en-GB\en-GB.mod_articles_latest.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_latest-sys-ini]
+file_filter = language\<lang>\<lang>.mod_articles_latest.sys.ini
+source_file = language\en-GB\en-GB.mod_articles_latest.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_news-ini]
+file_filter = language\<lang>\<lang>.mod_articles_news.ini
+source_file = language\en-GB\en-GB.mod_articles_news.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_news-sys-ini]
+file_filter = language\<lang>\<lang>.mod_articles_news.sys.ini
+source_file = language\en-GB\en-GB.mod_articles_news.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_popular-ini]
+file_filter = language\<lang>\<lang>.mod_articles_popular.ini
+source_file = language\en-GB\en-GB.mod_articles_popular.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_articles_popular-sys-ini]
+file_filter = language\<lang>\<lang>.mod_articles_popular.sys.ini
+source_file = language\en-GB\en-GB.mod_articles_popular.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_banners-ini]
+file_filter = language\<lang>\<lang>.mod_banners.ini
+source_file = language\en-GB\en-GB.mod_banners.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_banners-sys-ini]
+file_filter = language\<lang>\<lang>.mod_banners.sys.ini
+source_file = language\en-GB\en-GB.mod_banners.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_breadcrumbs-ini]
+file_filter = language\<lang>\<lang>.mod_breadcrumbs.ini
+source_file = language\en-GB\en-GB.mod_breadcrumbs.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_breadcrumbs-sys-ini]
+file_filter = language\<lang>\<lang>.mod_breadcrumbs.sys.ini
+source_file = language\en-GB\en-GB.mod_breadcrumbs.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_custom-ini]
+file_filter = language\<lang>\<lang>.mod_custom.ini
+source_file = language\en-GB\en-GB.mod_custom.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_custom-sys-ini]
+file_filter = language\<lang>\<lang>.mod_custom.sys.ini
+source_file = language\en-GB\en-GB.mod_custom.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_feed-ini]
+file_filter = language\<lang>\<lang>.mod_feed.ini
+source_file = language\en-GB\en-GB.mod_feed.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_feed-sys-ini]
+file_filter = language\<lang>\<lang>.mod_feed.sys.ini
+source_file = language\en-GB\en-GB.mod_feed.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_finder-ini]
+file_filter = language\<lang>\<lang>.mod_finder.ini
+source_file = language\en-GB\en-GB.mod_finder.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_finder-sys-ini]
+file_filter = language\<lang>\<lang>.mod_finder.sys.ini
+source_file = language\en-GB\en-GB.mod_finder.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_footer-ini]
+file_filter = language\<lang>\<lang>.mod_footer.ini
+source_file = language\en-GB\en-GB.mod_footer.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_footer-sys-ini]
+file_filter = language\<lang>\<lang>.mod_footer.sys.ini
+source_file = language\en-GB\en-GB.mod_footer.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_languages-ini]
+file_filter = language\<lang>\<lang>.mod_languages.ini
+source_file = language\en-GB\en-GB.mod_languages.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_languages-sys-ini]
+file_filter = language\<lang>\<lang>.mod_languages.sys.ini
+source_file = language\en-GB\en-GB.mod_languages.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_login-ini]
+file_filter = language\<lang>\<lang>.mod_login.ini
+source_file = language\en-GB\en-GB.mod_login.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_login-sys-ini]
+file_filter = language\<lang>\<lang>.mod_login.sys.ini
+source_file = language\en-GB\en-GB.mod_login.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_menu-ini]
+file_filter = language\<lang>\<lang>.mod_menu.ini
+source_file = language\en-GB\en-GB.mod_menu.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_menu-sys-ini]
+file_filter = language\<lang>\<lang>.mod_menu.sys.ini
+source_file = language\en-GB\en-GB.mod_menu.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_random_image-ini]
+file_filter = language\<lang>\<lang>.mod_random_image.ini
+source_file = language\en-GB\en-GB.mod_random_image.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_random_image-sys-ini]
+file_filter = language\<lang>\<lang>.mod_random_image.sys.ini
+source_file = language\en-GB\en-GB.mod_random_image.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_related_items-ini]
+file_filter = language\<lang>\<lang>.mod_related_items.ini
+source_file = language\en-GB\en-GB.mod_related_items.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_related_items-sys-ini]
+file_filter = language\<lang>\<lang>.mod_related_items.sys.ini
+source_file = language\en-GB\en-GB.mod_related_items.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_search-ini]
+file_filter = language\<lang>\<lang>.mod_search.ini
+source_file = language\en-GB\en-GB.mod_search.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_search-sys-ini]
+file_filter = language\<lang>\<lang>.mod_search.sys.ini
+source_file = language\en-GB\en-GB.mod_search.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_stats-ini]
+file_filter = language\<lang>\<lang>.mod_stats.ini
+source_file = language\en-GB\en-GB.mod_stats.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_stats-sys-ini]
+file_filter = language\<lang>\<lang>.mod_stats.sys.ini
+source_file = language\en-GB\en-GB.mod_stats.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_syndicate-ini]
+file_filter = language\<lang>\<lang>.mod_syndicate.ini
+source_file = language\en-GB\en-GB.mod_syndicate.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_syndicate-sys-ini]
+file_filter = language\<lang>\<lang>.mod_syndicate.sys.ini
+source_file = language\en-GB\en-GB.mod_syndicate.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_users_latest-ini]
+file_filter = language\<lang>\<lang>.mod_users_latest.ini
+source_file = language\en-GB\en-GB.mod_users_latest.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_users_latest-sys-ini]
+file_filter = language\<lang>\<lang>.mod_users_latest.sys.ini
+source_file = language\en-GB\en-GB.mod_users_latest.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_weblinks-ini]
+file_filter = language\<lang>\<lang>.mod_weblinks.ini
+source_file = language\en-GB\en-GB.mod_weblinks.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_weblinks-sys-ini]
+file_filter = language\<lang>\<lang>.mod_weblinks.sys.ini
+source_file = language\en-GB\en-GB.mod_weblinks.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_whosonline-ini]
+file_filter = language\<lang>\<lang>.mod_whosonline.ini
+source_file = language\en-GB\en-GB.mod_whosonline.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_whosonline-sys-ini]
+file_filter = language\<lang>\<lang>.mod_whosonline.sys.ini
+source_file = language\en-GB\en-GB.mod_whosonline.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_wrapper-ini]
+file_filter = language\<lang>\<lang>.mod_wrapper.ini
+source_file = language\en-GB\en-GB.mod_wrapper.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-mod_wrapper-sys-ini]
+file_filter = language\<lang>\<lang>.mod_wrapper.sys.ini
+source_file = language\en-GB\en-GB.mod_wrapper.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-pkg_joomla-sys-ini]
+file_filter = language\<lang>\<lang>.pkg_joomla.sys.ini
+source_file = language\en-GB\en-GB.pkg_joomla.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-tpl_atomic-ini]
+file_filter = language\<lang>\<lang>.tpl_atomic.ini
+source_file = language\en-GB\en-GB.tpl_atomic.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-tpl_atomic-sys-ini]
+file_filter = language\<lang>\<lang>.tpl_atomic.sys.ini
+source_file = language\en-GB\en-GB.tpl_atomic.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-tpl_beez_20-ini]
+file_filter = language\<lang>\<lang>.tpl_beez_20.ini
+source_file = language\en-GB\en-GB.tpl_beez_20.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-tpl_beez_20-sys-ini]
+file_filter = language\<lang>\<lang>.tpl_beez_20.sys.ini
+source_file = language\en-GB\en-GB.tpl_beez_20.sys.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-tpl_beez5-ini]
+file_filter = language\<lang>\<lang>.tpl_beez5.ini
+source_file = language\en-GB\en-GB.tpl_beez5.ini
+source_lang = en_GB
+
+[jworldlangs.25-site-en-GB-tpl_beez5-sys-ini]
+file_filter = language\<lang>\<lang>.tpl_beez5.sys.ini
+source_file = language\en-GB\en-GB.tpl_beez5.sys.ini
+source_lang = en_GB
