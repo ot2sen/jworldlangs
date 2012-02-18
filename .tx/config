@@ -59,7 +59,7 @@ file_filter = administrator\language\<lang>\<lang>.com_config.ini
 source_file = administrator\language\en-GB\en-GB.com_config.ini
 source_lang = en_GB
 
-[jworldlangs.25-admin-en-GB-com_checkin-sys-ini]
+[jworldlangs.25-admin-en-GB-com_config-sys-ini]
 file_filter = administrator\language\<lang>\<lang>.com_config.sys.ini
 source_file = administrator\language\en-GB\en-GB.com_config.sys.ini
 source_lang = en_GB
