@@ -114,6 +114,16 @@ file_filter = administrator\language\<lang>\<lang>.com_installer.sys.ini
 source_file = administrator\language\en-GB\en-GB.com_installer.sys.ini
 source_lang = en_GB
 
+[jworldlangs.25-admin-en-GB-com_joomlaupdate-ini]
+file_filter = administrator\language\<lang>\<lang>.com_joomlaupdate.ini
+source_file = administrator\language\en-GB\en-GB.com_joomlaupdate.ini
+source_lang = en_GB
+
+[jworldlangs.25-admin-en-GB-com_joomlaupdate-sys-ini]
+file_filter = administrator\language\<lang>\<lang>.com_joomlaupdate.sys.ini
+source_file = administrator\language\en-GB\en-GB.com_joomlaupdate.sys.ini
+source_lang = en_GB
+
 [jworldlangs.25-admin-en-GB-com_languages-ini]
 file_filter = administrator\language\<lang>\<lang>.com_languages.ini
 source_file = administrator\language\en-GB\en-GB.com_languages.ini
@@ -749,16 +759,6 @@ file_filter = administrator\language\<lang>\<lang>.plg_system_debug.sys.ini
 source_file = administrator\language\en-GB\en-GB.plg_system_debug.sys.ini
 source_lang = en_GB
 
-[jworldlangs.25-admin-en-GB-plg_system_finder-ini]
-file_filter = administrator\language\<lang>\<lang>.plg_system_finder.ini
-source_file = administrator\language\en-GB\en-GB.plg_system_finder.ini
-source_lang = en_GB
-
-[jworldlangs.25-admin-en-GB-plg_system_finder-sys-ini]
-file_filter = administrator\language\<lang>\<lang>.plg_system_finder.sys.ini
-source_file = administrator\language\en-GB\en-GB.plg_system_finder.sys.ini
-source_lang = en_GB
-
 [jworldlangs.25-admin-en-GB-plg_system_highlight-ini]
 file_filter = administrator\language\<lang>\<lang>.plg_system_highlight.ini
 source_file = administrator\language\en-GB\en-GB.plg_system_highlight.ini
@@ -1268,3 +1268,4 @@ source_lang = en_GB
 file_filter = language\<lang>\<lang>.tpl_beez5.sys.ini
 source_file = language\en-GB\en-GB.tpl_beez5.sys.ini
 source_lang = en_GB
+
